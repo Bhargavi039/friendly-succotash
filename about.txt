@@ -1,1 +1,3 @@
-ABOUT 
+Bhargavi
+Data Science
+the github is used to store git project
